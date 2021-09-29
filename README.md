@@ -30,7 +30,7 @@
     'type' => 'advanced' ,
     'templateId' => templateId ,
     'parameters' => [
-        ['key' => 'VerificationCode' , 'value' => 'value']
+        ['key' => 'key' , 'value' => 'value']
     ] ,
     'phone' => 09********* 
 ]
